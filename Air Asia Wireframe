@@ -323,21 +323,30 @@
           <mxGeometry x="32.5" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d0itYAdZKM6ackCQLZN9-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="d0itYAdZKM6ackCQLZN9-0">
-          <mxGeometry x="310" y="320" width="250" height="170" as="geometry" />
+          <mxGeometry x="240" y="250" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="d0itYAdZKM6ackCQLZN9-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Card Details&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="d0itYAdZKM6ackCQLZN9-0">
+          <mxGeometry x="520" y="250" width="340" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="d0itYAdZKM6ackCQLZN9-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Card Title&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d0itYAdZKM6ackCQLZN9-0">
+          <mxGeometry x="295" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0itYAdZKM6ackCQLZN9-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Points&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d0itYAdZKM6ackCQLZN9-0">
+          <mxGeometry x="540" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="EANK1TyLK8nmMbcdkbZK" name="Page-4">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="EANK1TyLK8nmMbcdkbZK" name="Add new Gift Card">
+    <mxGraphModel dx="897" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="RfeqFyu9H4Ftzbr9l1k0" name="Page-5">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="RfeqFyu9H4Ftzbr9l1k0" name="Update A gift Card">
+    <mxGraphModel dx="897" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
