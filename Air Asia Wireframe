@@ -398,7 +398,10 @@
           </mxCell>
         </UserObject>
         <mxCell id="uEYB3oBl-OEBuO_wMkED-1" value="Add New Card" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#333333;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#f5f5f5;whiteSpace=wrap;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
-          <mxGeometry x="510" y="140" width="150" height="50" as="geometry" />
+          <mxGeometry x="470" y="130" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l87AC8S8W3poRSVZnNBK-1" value="Cancel" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#333333;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#f5f5f5;whiteSpace=wrap;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+          <mxGeometry x="580" y="130" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -411,10 +414,10 @@
         <mxCell id="uBvDX643KJEwXgjcYUt7-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="uBvDX643KJEwXgjcYUt7-1">
           <mxGeometry x="60" y="70" width="740" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="uBvDX643KJEwXgjcYUt7-3" value="New Card" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="uBvDX643KJEwXgjcYUt7-2">
+        <mxCell id="uBvDX643KJEwXgjcYUt7-3" value="Update Card" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="uBvDX643KJEwXgjcYUt7-2">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="uBvDX643KJEwXgjcYUt7-4" value="https://www.AirAsia.com/NewCard" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="uBvDX643KJEwXgjcYUt7-2">
+        <mxCell id="uBvDX643KJEwXgjcYUt7-4" value="https://www.AirAsia.com/UpdateCard" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="uBvDX643KJEwXgjcYUt7-2">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uBvDX643KJEwXgjcYUt7-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="uBvDX643KJEwXgjcYUt7-2">
@@ -459,7 +462,13 @@
           </mxCell>
         </UserObject>
         <mxCell id="iGkLo9oLM5rm-iQIcZ2t-0" value="Update Card" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#333333;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#f5f5f5;whiteSpace=wrap;" vertex="1" parent="uBvDX643KJEwXgjcYUt7-2">
-          <mxGeometry x="510" y="130" width="150" height="50" as="geometry" />
+          <mxGeometry x="460" y="125" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F3pCPlKM02L-zIcNiKyV-0" value="Delete Card" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#333333;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#f5f5f5;whiteSpace=wrap;" vertex="1" parent="uBvDX643KJEwXgjcYUt7-2">
+          <mxGeometry x="552" y="125" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nMp2UoYYtAigHRnpe4xw-18" value="Cancel" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#333333;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#f5f5f5;whiteSpace=wrap;" vertex="1" parent="uBvDX643KJEwXgjcYUt7-2">
+          <mxGeometry x="640" y="125" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
