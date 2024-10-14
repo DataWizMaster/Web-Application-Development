@@ -343,19 +343,60 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EANK1TyLK8nmMbcdkbZK" name="Add new Gift Card">
-    <mxGraphModel dx="1794" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="897" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KYhE1LFmMc2aH4bFt_MW-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="90" width="740" height="480" as="geometry" />
+          <mxGeometry x="60" y="70" width="740" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="KYhE1LFmMc2aH4bFt_MW-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+        <mxCell id="KYhE1LFmMc2aH4bFt_MW-2" value="New Card" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KYhE1LFmMc2aH4bFt_MW-3" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+        <mxCell id="KYhE1LFmMc2aH4bFt_MW-3" value="https://www.AirAsia.com/NewCard" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="8avgebhbu5ALwaIFDv4M-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+          <mxGeometry x="322.5" y="110" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="63WUi0tL-1F_rem37IZt-1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Comic Sans MS&quot;&gt;Air Asia Logo&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+          <mxGeometry x="335" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8avgebhbu5ALwaIFDv4M-3" value="Card Name here" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+          <mxGeometry x="210" y="220" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8avgebhbu5ALwaIFDv4M-6" value="Card Name" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+          <mxGeometry x="210" y="190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8avgebhbu5ALwaIFDv4M-7" value="Card Type: Virtual Card" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+          <mxGeometry x="210" y="280" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8avgebhbu5ALwaIFDv4M-8" value="Card Type" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+          <mxGeometry x="210" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8avgebhbu5ALwaIFDv4M-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/navigation-set-arrows-part-two/32/Arrow_Drop_Down-128.png" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+          <mxGeometry x="552" y="281" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8avgebhbu5ALwaIFDv4M-10" value="$25.00" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+          <mxGeometry x="210" y="340" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8avgebhbu5ALwaIFDv4M-11" value="Card Value" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+          <mxGeometry x="210" y="310" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8avgebhbu5ALwaIFDv4M-17" value="25" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+          <mxGeometry x="210" y="400" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8avgebhbu5ALwaIFDv4M-18" value="Points&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+          <mxGeometry x="210" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8avgebhbu5ALwaIFDv4M-19" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+          <mxGeometry x="220" y="450" width="320" height="110" as="geometry" />
+        </mxCell>
+        <UserObject label="Upload Card Image" id="8avgebhbu5ALwaIFDv4M-20">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="KYhE1LFmMc2aH4bFt_MW-1">
+            <mxGeometry x="230" y="420" width="130" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
